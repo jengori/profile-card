@@ -1,0 +1,110 @@
+
+body {
+    color: hsl(229, 23%, 23%);
+    font-family: "Kumbh Sans", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color :hsl(229, 23%, 23%);
+    font-size: 18px;
+    margin: 70px 0px 0px;
+}
+
+
+.container {
+    background-color: hsl(185, 75%, 39%);
+    margin: auto;
+    width: 375px;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.profile-box {
+    border-radius: 15px;
+    margin: auto;
+    width: 85%;
+    background-color: white;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    height: 390px;
+}
+
+.bg-pattern {
+    position:absolute;
+    right:160px;
+    bottom: 330px;
+}
+
+.bg-pattern-bottom {
+    position:absolute;
+    top: 330px;
+    left: 150px;
+
+}
+
+.card-pattern {
+    border-radius: 15px 15px 0 0;
+    width: 318px;
+}
+
+.victor-image {
+    border: 5px solid white;
+    border-radius: 100%;
+    position:absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.age {
+    font-weight: 400;
+    color: hsl(227, 10%, 46%)
+}
+
+.location {
+    font-weight: 400;
+    font-size: 14px;
+    color: hsl(227, 10%, 46%);
+    padding-bottom: 20px;
+}
+
+hr {
+    height: 1px;
+    background-color: lightgray;
+    border: none;
+}
+
+.stats-table {
+    margin: auto;
+    padding-top: 20px;
+}
+
+td {
+    padding: 0 18px 0;s
+}
+
+.stats-figures {
+    color: hsl(229, 23%, 23%);
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.stats-categories {
+    color: hsl(227, 10%, 46%);
+    font-size: 10px;
+    font-stretch: 1000%;
+}
+
+
+
