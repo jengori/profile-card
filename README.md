@@ -12,5 +12,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: https://github.com/jengori/profile-card/settings/pages
+- Solution URL: https://github.com/jengori/profile-card/
 - Live Site URL: https://jengori.github.io/profile-card/
